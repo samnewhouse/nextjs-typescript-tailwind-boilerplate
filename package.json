@@ -22,11 +22,11 @@
     "react-dom": "19.0.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "4.0.1",
+    "@tailwindcss/postcss": "4.0.2",
     "@types/node": "22.12.0",
     "@types/react": "19.0.8",
     "@types/react-dom": "19.0.3",
-    "tailwindcss": "4.0.1",
+    "tailwindcss": "4.0.2",
     "typescript": "5.7.3"
   },
   "author": "Sam Newhouse (https://github.com/SamNewhouse)",
